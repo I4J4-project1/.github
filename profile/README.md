@@ -1,5 +1,8 @@
-## Hi there 👋
+## Team Project 1
+### 여행 경비 예측 프로젝트
 
+🙋‍ 
+👩‍💻 Codestates AI17
 <!--
 
 **Here are some ideas to get you started:**
