@@ -1,9 +1,13 @@
-## Team Project 1
-### 여행 경비 예측 프로젝트
+## I4J4 Project1
 
-🙋‍ 
+✈ 여행 경비 예측 프로젝트 </br>
+
+🙋‍ 2023-05-15 ~ 25 TP1 </br>
+
 👩‍💻 Codestates AI17
 <!--
+
+✈ 여행 경비 예측 프로젝트
 
 **Here are some ideas to get you started:**
 
